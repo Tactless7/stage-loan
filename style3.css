@@ -1,0 +1,85 @@
+h1 {
+  color: cadetblue;
+  text-decoration: underline;
+}
+
+h1 {
+  font-family: "Changa", cursive;
+  font-size: 5em;
+  text-align: center;
+  text-shadow: 6px 6px 0px rgba(176, 169, 169, 0.76);
+}
+banner {
+  padding: 100px 0;
+  background: url ("tracify.png");
+  background-size: cover;
+  background-position: center;
+  width: 50%;
+  margin: auto;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+h2 {
+  color: lightslategray;
+  text-decoration: underline;
+}
+
+h2 {
+  font-family: "Changa", cursive;
+  font-size: 2em;
+  font-style: italic;
+}
+banner {
+  padding: 100px 0;
+  background: url ("Entreprise.jpeg");
+  background-size: cover;
+  background-position: center;
+  width: 50%;
+  margin: auto;
+}
+
+h3 {
+  color: lightslategray;
+  text-decoration: underline;
+}
+
+h3 {
+  font-family: "Changa", cursive;
+  font-size: 2em;
+  font-style: italic;
+}
+
+h4 {
+  color: lightslategray;
+  text-decoration: underline;
+}
+
+h4 {
+  font-family: "Changa", cursive;
+  font-size: 2em;
+  font-style: italic;
+}
+
+h5 {
+  color: lightslategray;
+  text-decoration: underline;
+}
+
+h5 {
+  font-family: "Changa", cursive;
+  font-size: 2em;
+  font-style: italic;
+}
+
+.conteneur {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+body {
+  padding: 50px;
+}
